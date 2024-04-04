@@ -29,6 +29,7 @@ Jobs:
 4. SCM, Private Repository, with build step of Execute shell
 
 
-
+# Homework
 1. Jenkins Freestyle Job options
+2. 
 
