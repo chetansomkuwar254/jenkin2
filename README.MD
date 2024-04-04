@@ -31,5 +31,5 @@ Jobs:
 
 # Homework
 1. Jenkins Freestyle Job options execute - Node
-2. Examples with 
+2. Examples with Job
 
