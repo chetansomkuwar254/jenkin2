@@ -30,6 +30,6 @@ Jobs:
 
 
 # Homework
-1. Jenkins Freestyle Job options
+1. Jenkins Freestyle Job options execute - Node
 2. 
 
