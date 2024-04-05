@@ -33,3 +33,21 @@ Jobs:
 1. Jenkins Freestyle Job options execute - Node
 2. Examples with Job
 
+# Pipeline: Sequentially perform the all stages of SDLC
+
+# Wrote Pipeline: Script
+VS-Code Extension: Groovy, Marshmellow
+
+# Types:
+1. Declerative
+2. Scripted
+
+# Pluggins for pipeline:
+1. Declearative pipeline
+2. Blue ocean dashboard
+3. SSH server/ SSH pipeline steps
+4. GitHub Server
+    - GitHub Integration
+    - GitHub Auth
+    
+
