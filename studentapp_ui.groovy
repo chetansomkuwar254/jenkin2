@@ -19,7 +19,7 @@ pipeline {
             }
         stage('Quality Test') {
             steps {
-                echo 'Here we doing build operation'
+                echo 'Here we '
             }
         stage('Build') {
             steps {
