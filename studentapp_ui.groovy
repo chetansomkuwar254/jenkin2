@@ -12,6 +12,19 @@ pipeline {
             steps {
                 echo 'Here we doing build operation'
             }
-        }        
+        }
+        stage('Build') {
+            steps {
+                echo 'Here we doing build operation'
+            }
+        stage('Build') {
+            steps {
+                echo 'Here we doing build operation'
+            }
+        stage('Build') {
+            steps {
+                echo 'Here we doing build operation'
+            }
+        
     }
 }
