@@ -10,7 +10,7 @@ pipeline {
         }
         stage('Build') {
             steps {
-                echo 'Here we are pullin our project repository'
+                echo 'Here we doing build operation'
             }
         }        
     }
