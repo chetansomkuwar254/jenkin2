@@ -10,7 +10,7 @@ pipeline {
         }
         stage('Build') {
             steps {
-                sh '/opt/apache-maven/bin/ mvn clean package'
+                sh '/opt/apache-maven/bin/mvn clean package'
                 echo 'Here we doing build operation'
             }
         }
