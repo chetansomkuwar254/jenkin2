@@ -21,7 +21,7 @@ pipeline {
             steps {
                 echo 'Here we are testing the quality'
             }
-        stage('Build') {
+        stage('Deploy') {
             steps {
                 echo 'Here we doing build operation'
             }
