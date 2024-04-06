@@ -15,9 +15,9 @@ pipeline {
         }
         stage('Test') {
             steps {
-                echo 'Here we doing build operation'
+                echo 'Here we are testing '
             }
-        stage('Build') {
+        stage('') {
             steps {
                 echo 'Here we doing build operation'
             }
