@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Pull') {
             steps {
-                git branch: 'main', credentialsId: 'jarvis-key', url: 'https://github.com/chetansomkuwar254/studentapp-ui-jenkins-b2.git'
+                git 'https://github.com/chetansomkuwar254/studentapp.ui.git'
                 echo 'Here we are pullin our project repository'
             }
         }
