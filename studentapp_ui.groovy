@@ -11,7 +11,7 @@ pipeline {
         stage('Build') {
             steps {
                 sh 'mvn clean package'
-                echo 'Yes, Application Build pull is done !'
+                echo 'Yes, Application Build is done !'
             }
         }
         stage('Test') {
