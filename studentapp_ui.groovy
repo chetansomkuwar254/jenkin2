@@ -5,7 +5,7 @@ pipeline {
         stage('Pull') {
             steps {
                 git changelog: false, poll: false, url: 'https://github.com/chetansomkuwar254/studentapp.ui'
-                
+                echo 'Yes, Application repository pull is done !'
             }
         }
         stage('Build') {
